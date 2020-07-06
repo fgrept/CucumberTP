@@ -7,3 +7,5 @@ The exercise is to convert numbers to Roman Numerals.
 All libraries and initial example JUnit and Cucumber tests are already present.
 Add the next simplest unit test, then implement the simplest code to allow it to pass.  
 Once the test is passing, look for opportunities to refactor, then repeat.
+
+Modif du readme pour test
